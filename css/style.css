@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+/*sdfsdf*/
+
+
+
+
+.title{
+    color: #163A24;
+    font-family: Recoleta;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1 125;
+}
+
+.title_w{
+color: #FBFAF7;
+}
+
+
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.text{
+    color: #163A24;
+    font-size: 18px;
+    font-family: Noto Sans;
+    font-weight: 400;
+}
+
+.text_w{
+    color: #FBFAF7;
+}
+
+/*header*/
+
+.header{
+    background: #163A24;
+}
+
+
+
+.header__wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__block{
+    display: flex;
+    align-items: center;
+}
+
+.header__menu{
+    display: flex;
+}
+.header__menu-item{
+    color: #FBFAF7;
+text-align: right;
+font-family: Noto Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-right: 24px;
+}
+
+.header__link{
+    border-radius: 160px;
+    padding: 15px 25px;
+background: #198C36;
+}
+.header__link a{
+    color: #FBFAF7;
+    font-size: 16px;
+    font-family: Noto Sans;
+    font-weight: 400;
+}
+.header__link{
+    justify-content: flex-end;
+}
+
+
+
+/*intro*/
+
+.intro{
+    background-color: #163A24;
+}
+.intro__wrap{
+    display: flex;
+}
+.intro__texts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.intro__title{
+    margin-bottom: 18px;
+}
+
+
+.intro__pic{
+   margin-right: -54px;
+}
+.hr{
+    padding: 120px 0;
+}
+
+
+.hr__block{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.hr__texts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 374px;
+    
+}
+
+
+
+.hr__title{
+    margin-bottom: 27px;
+}
+
+
+
+/*hq*/
+.hq{
+    background-color: #163A24;
+    padding: 66px 0 120px 0;
+}
+
+.hq__title{
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.hq__row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hq__card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.hq__text{
+    text-align: center;
+}
+
+.hq__pic{
+    margin-bottom: 44px;
+}
+
+
+
+
+
+
